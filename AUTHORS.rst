@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+Hayley Denbraver, a human. 
+[@hayleydenb](twitter.com/hayleydenb)
 
 
