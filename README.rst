@@ -1,41 +1,27 @@
-Template
+Why am I here?
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+$project is an experiment run by Hayley Denbraver, in order to get used to Read The Docs. 
 
-Look how easy it is to use:
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
+About Hayley
 --------
+Mini bio here
 
-- Be awesome
-- Make things faster
-
-Installation
+Professional Links
 ------------
+linked in etc
 
-Install $project by running:
 
-    install project
-
-Contribute
+Social Links
 ----------
+twitter etc
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
 
-Support
+Why DevRel
 -------
+how I think about devrel
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
+Why Documentation
 -------
-
-The project is licensed under the BSD license.
+why i care about docs
