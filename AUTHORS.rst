@@ -2,6 +2,6 @@ Authors
 -------
 
 Hayley Denbraver, a human. 
-[@hayleydenb](twitter.com/hayleydenb)
+`@hayleydenb <www.twitter.com/hayleydenb>`_
 
 
