@@ -12,6 +12,8 @@ Welcome to HayleyDocs (Hayley's experiment with Read the Docs)!
 
 
 
+Explore the Docs
+===================================================
 * :ref:`genindex`
 * :ref:`search`
 
